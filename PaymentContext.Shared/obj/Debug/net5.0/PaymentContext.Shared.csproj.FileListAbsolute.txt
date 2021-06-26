@@ -1,0 +1,12 @@
+C:\Users\fabio\source\repos\Estudo\Balta.io\PaymentContext\PaymentContext.Shared\bin\Debug\net5.0\PaymentContext.Shared.deps.json
+C:\Users\fabio\source\repos\Estudo\Balta.io\PaymentContext\PaymentContext.Shared\bin\Debug\net5.0\PaymentContext.Shared.dll
+C:\Users\fabio\source\repos\Estudo\Balta.io\PaymentContext\PaymentContext.Shared\bin\Debug\net5.0\ref\PaymentContext.Shared.dll
+C:\Users\fabio\source\repos\Estudo\Balta.io\PaymentContext\PaymentContext.Shared\bin\Debug\net5.0\PaymentContext.Shared.pdb
+C:\Users\fabio\source\repos\Estudo\Balta.io\PaymentContext\PaymentContext.Shared\obj\Debug\net5.0\PaymentContext.Shared.csprojAssemblyReference.cache
+C:\Users\fabio\source\repos\Estudo\Balta.io\PaymentContext\PaymentContext.Shared\obj\Debug\net5.0\PaymentContext.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabio\source\repos\Estudo\Balta.io\PaymentContext\PaymentContext.Shared\obj\Debug\net5.0\PaymentContext.Shared.AssemblyInfoInputs.cache
+C:\Users\fabio\source\repos\Estudo\Balta.io\PaymentContext\PaymentContext.Shared\obj\Debug\net5.0\PaymentContext.Shared.AssemblyInfo.cs
+C:\Users\fabio\source\repos\Estudo\Balta.io\PaymentContext\PaymentContext.Shared\obj\Debug\net5.0\PaymentContext.Shared.csproj.CoreCompileInputs.cache
+C:\Users\fabio\source\repos\Estudo\Balta.io\PaymentContext\PaymentContext.Shared\obj\Debug\net5.0\PaymentContext.Shared.dll
+C:\Users\fabio\source\repos\Estudo\Balta.io\PaymentContext\PaymentContext.Shared\obj\Debug\net5.0\ref\PaymentContext.Shared.dll
+C:\Users\fabio\source\repos\Estudo\Balta.io\PaymentContext\PaymentContext.Shared\obj\Debug\net5.0\PaymentContext.Shared.pdb
